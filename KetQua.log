@@ -1,0 +1,89 @@
+
+[2024-02-17 10:52:51]: Danh sách sinh viên lớp CQ59/41.01:
+[2024-02-17 09:53:52]: 1,2273404050010,Nguyễn Thị Anh,CQ59/41.01,6500000
+[2024-02-17 09:54:39]: 2,2273404050020,Phan Văn Mạnh,CQ59/41.01,0
+[2024-02-17 10:13:25]: 3,2273404050030,Hoàng Thị Anh,CQ59/41.01,7000000
+[2024-02-17 10:23:43]: 4,2273404050040,Lê Văn B,CQ59/41.01,0
+[2024-02-17 10:25:54]: 5,2273404050050,Nguyễn Thị A,CQ59/41.01,6500000
+[2024-02-18 10:36:47]: Danh sách các sinh viên có trùng họ tên trong 2 lớp CQ59/41.01 và CQ59/41.02: 
+[2024-02-17 09:53:52]: 1,2273404050010,Nguyễn Thị Anh,CQ59/41.01,6500000
+[2024-02-17 09:54:39]: 2,2273404050020,Phan Văn Mạnh,CQ59/41.01,0
+[2024-02-17 10:26:31]: 6,2273404050060,Nguyễn Thị Anh,CQ59/41.02,7000000
+[2024-02-17 10:27:48]: 7,2273404050070,Phan Văn Mạnh,CQ59/41.02,0
+[2024-02-18 10:54:19]: Danh sách sinh viên tên Anh: 
+Không có sinh viên nào thỏa mãn
+[2024-02-18 10:58:37]: Danh sách sinh viên tên Anh: 
+Không có sinh viên nào thỏa mãn
+[2024-02-18 11:03:28]: Danh sách sinh viên tên Anh: 
+Không có sinh viên nào thỏa mãn
+[2024-02-18 11:05:56]: Danh sách sinh viên tên Anh: 
+Nguyễn Thị Anh
+Hoàng Thị Anh
+Nguyễn Thị Anh
+Lê Hoàng Anh
+[2024-02-18 11:06:22]: Danh sách sinh viên tên Anh: 
+[2024-02-17 09:53:52]: 1,2273404050010,Nguyễn Thị Anh,CQ59/41.01,6500000
+[2024-02-17 10:13:25]: 3,2273404050030,Hoàng Thị Anh,CQ59/41.01,7000000
+[2024-02-17 10:26:31]: 6,2273404050060,Nguyễn Thị Anh,CQ59/41.02,7000000
+[2024-02-17 10:28:43]: 8,2273404050080,Lê Hoàng Anh,CQ59/41.02,0
+[2024-02-18 11:06:39]: Danh sách sinh viên tên Anh: 
+[2024-02-17 09:53:52]: 1,2273404050010,Nguyễn Thị Anh,CQ59/41.01,6500000
+[2024-02-17 10:13:25]: 3,2273404050030,Hoàng Thị Anh,CQ59/41.01,7000000
+[2024-02-17 10:26:31]: 6,2273404050060,Nguyễn Thị Anh,CQ59/41.02,7000000
+[2024-02-17 10:28:43]: 8,2273404050080,Lê Hoàng Anh,CQ59/41.02,0
+[2024-02-19 10:09:01]: Danh sách sinh viên tên Anh có trong lớp CQ59/41.01: 
+[2024-02-17 09:53:52]: 1,2273404050010,Nguyễn Thị Anh,CQ59/41.01,6500000
+[2024-02-17 10:13:25]: 3,2273404050030,Hoàng Thị Anh,CQ59/41.01,7000000
+[2024-02-19 10:12:48]: Danh sách sinh viên họ Phan có trong lớp CQ59/41.01: 
+Không có sinh viên nào thỏa mãn
+[2024-02-19 10:13:39]: Danh sách sinh viên họ Phan có trong lớp CQ59/41.01: 
+[2024-02-17 09:54:39]: 2,2273404050020,Phan Văn Mạnh,CQ59/41.01,0
+[2024-02-19 10:18:56]: Danh sách sinh viên tên đệm Thị có trong lớp CQ59/41.02: 
+[2024-02-17 10:26:31]: 6,2273404050060,Nguyễn Thị Anh,CQ59/41.02,7000000
+[2024-02-17 10:30:16]: 10,2273404050100,Nguyễn Thị Lan,CQ59/41.02,10
+[2024-02-17 10:37:29]: 12,2273404050120,Nguyễn Thị C,CQ59/41.02,0
+[2024-02-19 10:28:59]: Số lượng sinh viên được học bổng: 
+Số lượng sinh viên được học bổng: 7sinh viên
+Số lượng sinh viên được học bổng: 7 sinh viên
+[2024-02-19 23:10:23]: Danh sách sinh viên được học bổng cao nhất: 
+[2024-02-17 10:13:25]: 3,2273404050030,Hoàng Thị Anh,CQ59/41.01,7000000
+[2024-02-17 10:26:31]: 6,2273404050060,Nguyễn Thị Anh,CQ59/41.02,7000000
+[2024-02-17 10:34:38]: 11,2273404050110,Hoàng Hữu C,CQ59/41.03,7000000
+[2024-02-27 12:44:00]: Danh sách sinh viên được học bổng thấp nhất (khác 0) của lớp CQ59/41.02: 
+[2024-02-17 10:29:28]: 9,2273404050090,Nguyễn Văn B,CQ59/41.02,6500000
+[2024-02-17 10:30:16]: 10,2273404050100,Nguyễn Thị Lan,CQ59/41.02,6500000
+[2024-02-27 12:44:51]: Danh sách sinh viên được học bổng thấp nhất (khác 0) của lớp CQ59/41.02: 
+[2024-02-17 10:29:28]: 9,2273404050090,Nguyễn Văn B,CQ59/41.02,6500000
+[2024-02-17 10:30:16]: 10,2273404050100,Nguyễn Thị Lan,CQ59/41.02,6500000
+Tổng tiền học bổng của lớp niên chế CQ59/41.02: 20000000
+[2024-03-13 17:53:47]: Tổng tiền học bổng của lớp niên chế CQ60/41.03: 0
+Học bổng trung binh trên các sinh viên được học bổng: 6714285.71
+Học bổng trung binh trên các sinh viên được học bổng: 6714285.71
+[2024-03-14 17:55:41]: Tổng tiền học bổng của lớp niên chế CQ60/41.02: 0
+[2024-03-14 17:55:41]: Tổng tiền học bổng của lớp niên chế CQ60/41.02: 0
+[2024-03-14 17:56:14]: Tổng tiền học bổng của lớp niên chế CQ60/41.02: 0
+[2024-03-14 17:56:14]: Tổng tiền học bổng của lớp niên chế CQ60/41.01: 0
+Học bổng trung binh trên các sinh viên được học bổng có trong danh sách lớp CQ59/41.01: 4000000.0
+Học bổng trung binh trên các sinh viên được học bổng có trong danh sách lớp CQ59/41.02: 3333333.33
+2273404050010,Nguyễn Thị Anh
+2273404050020,Phan Văn Mạnh
+2273404050030,Hoàng Thị Anh
+2273404050040,Lê Văn B
+2273404050050,Nguyễn Thị A
+2273404050060,Nguyễn Thị Anh
+2273404050070,Phan Văn Mạnh
+2273404050080,Lê Hoàng Anh
+2273404050090,Nguyễn Văn B
+2273404050100,Nguyễn Thị Lan
+2273404050110,Hoàng Hữu C
+2273404050120,Nguyễn Thị C
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 12 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 12 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 4 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 2 từ: 0 sinh viên
+Số sinh viên trong danh sách lớp mà tên có 3 từ: 12 sinh viên
